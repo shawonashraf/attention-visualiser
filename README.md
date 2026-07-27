@@ -1,16 +1,13 @@
 # attention-visualiser
-# MOVED TO CODEBERG
-https://codeberg.org/rashomon/attention-visualiser
-
-| Status | Coverage |
-|--------|----------|
-| [![tests](https://github.com/rashomon-gh/attention-visualiser/actions/workflows/tests.yml/badge.svg)](https://github.com/rashomon-gh/attention-visualiser/actions/workflows/tests.yml) | [![codecov](https://codecov.io/github/rashomon-gh/attention-visualiser/graph/badge.svg?token=UqcZYGp3Rj)](https://codecov.io/github/rashomon-gh/attention-visualiser) |
 
 A module to visualise attention layer activations from transformer based models from huggingface
 
 ## installation
 
 ```bash
+pip install pip@git+https://github.com/shawonashraf/attention-visualiser
+
+# or, use pypi
 pip install attention-visualiser
 ```
 
