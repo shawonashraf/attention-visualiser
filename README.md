@@ -6,9 +6,6 @@ A module to visualise attention layer activations from transformer based models 
 
 ```bash
 pip install git+https://github.com/shawonashraf/attention-visualiser
-
-# or, use pypi
-pip install attention-visualiser
 ```
 
 ## usage
